@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi there👋, I am Srashti Sharma:
 
 # 💫 About Me:
-- 💻 I’m currently working on Dream Quill, a specialized Machine Learning model which can create stories from prompts based on the genre specification along with Images and Videos. <br>- 🌱 I’m currently learning Deep Learning Algorithms and Computer Vision.<br>- 👯 I’m looking to collaborate on ML repositories with exciting ideas.<br>- 🤔 I’m looking for help with internships and jobs in AI/ML.<br>- 💬 Ask me about Tech, I love it!<br>- 📫 How to reach me: srashtisharma09@gmail.com<br> <br>
+- 💻 I’m currently working on Dream Quill, a specialized Machine Learning model which can create stories from prompts based on the genre specification along with Images and Videos. <br>
+- 🌱 I’m currently learning Deep Learning Algorithms and Computer Vision.<br>- 👯 I’m looking to collaborate on ML repositories with exciting ideas.<br>
+- 🤔 I’m looking for help with internships and jobs in AI/ML.<br>- 💬 Ask me about Tech, I love it!<br>
+- 📫 How to reach me: srashtisharma09@gmail.com<br>
+- 📄 Here's my resume : [![Resume](https://drive.google.com/file/d/1WwNo0Z7DlJFFvWnzmP7PFlum5X9SU0a9/view?usp=sharing)
 
 
 ## 🌐 Socials:
