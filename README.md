@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with internships and jobs in AI/ML.<br>
 - 💬 Ask me about Tech, I love it!<br>
 - 📫 How to reach me: srashtisharma09@gmail.com<br>
-- 📄 Here's my resume : [[Resume](https://drive.google.com/file/d/1WwNo0Z7DlJFFvWnzmP7PFlum5X9SU0a9/view?usp=sharing) <br><br>
+- 📄 Here's my resume : [Resume](https://drive.google.com/file/d/1WwNo0Z7DlJFFvWnzmP7PFlum5X9SU0a9/view?usp=sharing) <br><br>
 
 
 ## 🌐 Socials:
