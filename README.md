@@ -74,10 +74,10 @@ AI/ML Engineer & Python Developer | Final-Year B.Tech CSE (RGPV, 2026) | 2x Hack
  
 ### 🚀 Featured Projects
  
-**DreamQuill — AI Story Generation Platform** *(Oct 2025)*
+[**DreamQuill — AI Story Generation Platform** *(Oct 2025)*](https://github.com/Srashtisharma08/DreamQuill-1)
 Python OOP backend integrating LLM APIs for structured content generation. Cut output inconsistency by 40%, achieved 95% output consistency via a validated ETL pipeline, and reduced dev time 30% through reusable components.
  
-**Quantum-AI Verse — DSA Learning Platform** *(Jan 2026)*
+[**Quantum-AI Verse — DSA Learning Platform** *(Jan 2026)*](https://github.com/Srashtisharma08/Quantum-AI-Verse)
 Built a 3-stage AI generation & evaluation pipeline (draft → evaluate → refine), reducing manual review cycles by 35%. Structured and analysed 500+ annotated records, improving model accuracy by 25% against a defined rubric.
  
 ---
