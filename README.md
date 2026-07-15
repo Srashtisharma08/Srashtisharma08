@@ -1,7 +1,7 @@
 ## 💫 About Me:
 # Hi, I am Srashti Sharma 👋<br>
 <br>
-AI/ML Engineer & Python Developer | Final-Year B.Tech CSE (RGPV, 2026) | 2x Hackathon Winner<br><br>Brief introduction about me: I am a-
+AI/ML Engineer & Python Developer | B.Tech CSE Graduate (RGPV, 2026) | 2x Hackathon Winner<br><br>Brief introduction about me: I am a-
 <br>
 <br>
 🧠 AI / ML Engineer with hands-on LLM Integration experience (GPT, Claude, prompt engineering, RAG-style pipelines).<br>
