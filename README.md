@@ -19,7 +19,7 @@ AI/ML Engineer & Python Developer | B.Tech CSE Graduate (RGPV, 2026) | 2x Hackat
 <br>
 📫 How to reach me: sharmasrashti09@gmail.com
 <br>📄 View my resume here <!-- add your resume link -->
-<br>
+<br> 
 <br>
 📍 Based in Ujjain, Madhya Pradesh, India
 
